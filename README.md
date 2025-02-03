@@ -1,7 +1,7 @@
 # odin-recipes
 
 ## 📌 Introduction
-Odin Recipes is a simple recipe website built as part of The Odin Project to practice fundamental web development skills. The project consists of a homepage with links to individual recipe pages, each containing a description, ingredient list, and step-by-step instructions.
+Odin Recipes is a simple recipe website built as part of The Odin Project to practice fundamental web development skills. The project consists of a homepage with links to individual recipe pages, each containing a description, ingredient list, and step-by-step instructions. Recipes sourced from https://www.allrecipes.com/.
 
 ## 🛠️ Skills Demonstrated
 By completing this project, I have practiced and demonstrated the following skills:
