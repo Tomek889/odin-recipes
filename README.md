@@ -6,7 +6,7 @@ Odin Recipes is a simple recipe website built as part of The Odin Project to pra
 ## 🛠️ Skills Demonstrated
 By completing this project, I have practiced and demonstrated the following skills:
 
-✅ HTML Structure & Semantics – Using proper HTML elements such as <h1>, <h2>, <ul>, <ol>, <p>, and <a> for clear and accessible content organization.
+✅ HTML Structure & Semantics – Using proper HTML elements such as h1, h2, ul, ol, p, and a for clear and accessible content organization.
 
 ✅ CSS Styling & Theming – Applying custom styles, including background color, fonts, borders, and hover effects to enhance visual appeal.
 
