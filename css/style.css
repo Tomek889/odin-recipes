@@ -1,7 +1,16 @@
 body {
     background-color: #FAEBE0;
+    font-style: 
 }
 
 img {
     border: 6px solid #C1AC95;
+}
+
+h1 {
+    color: #3D2C1E;
+}
+
+h2, p, ul, ol {
+    color: #2C2C2C;
 }
