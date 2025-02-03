@@ -1,6 +1,6 @@
 body {
     background-color: #FAEBE0;
-    font-style: 
+    font-family: 'Merriweather', serif;
 }
 
 img {
@@ -8,9 +8,18 @@ img {
 }
 
 h1 {
-    color: #3D2C1E;
+    color: #B85C5C;
 }
 
-h2, p, ul, ol {
+h2, p, ul, ol, a {
     color: #2C2C2C;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
 }
