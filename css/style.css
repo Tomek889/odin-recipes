@@ -32,6 +32,9 @@ a:hover {
     background-color: #ffffff;
     max-width: 600px;
     margin: 0 auto;
+    border: 6px solid #C1AC95;
+    padding: 15px;
+    margin: 20px auto;
 }
 
 header, .anchor, .content, .image {
