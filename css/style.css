@@ -1,6 +1,8 @@
 body {
     background-color: #FAEBE0;
     font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: 0 auto;
 }
 
 img {
@@ -26,9 +28,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-.homepage {
-    text-align: center;
-    margin: 0 auto;
 }
