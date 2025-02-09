@@ -30,3 +30,6 @@ a:hover {
     text-decoration: underline;
 }
 
+.description, .ingredients, .steps {
+    background-color: #ffffff;
+}
