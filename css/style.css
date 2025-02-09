@@ -1,8 +1,6 @@
 body {
     background-color: #FAEBE0;
     font-family: 'Merriweather', serif;
-    text-align: center;
-    margin: 0 auto;
 }
 
 img {
@@ -32,4 +30,6 @@ a:hover {
 
 .description, .ingredients, .steps {
     background-color: #ffffff;
+    max-width: 600px;
+    margin: 0 auto;
 }
